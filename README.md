@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [swapper.tools](https://swapper.tools/), a set of tools to make safe atomic transactions on Algorand Blockchain for free and other useful stuff.
 - 🌱 I’m currently learning NextJS
 - 💬 Ask me about React ❤️
-- 📫 How to reach me: silventino.dev@gmail.com
+- 📫 How to reach me: [Email](mailto:silventino.dev@gmail.com), [LinkedIn](https://linkedin.com/in/silventino/), and [Twitter](https://twitter.com/Silventino)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I had a pet cow in my backyard 🐮
 
