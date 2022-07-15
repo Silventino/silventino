@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about React ❤️
 - 📫 How to reach me: [Email](mailto:silventino.dev@gmail.com), [LinkedIn](https://linkedin.com/in/silventino/), and [Twitter](https://twitter.com/Silventino)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I had a pet cow in my backyard 🐮
 
 
 <div align="center">
